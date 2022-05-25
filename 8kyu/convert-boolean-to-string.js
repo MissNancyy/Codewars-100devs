@@ -1,0 +1,11 @@
+// Prompt: Implement a function which convert the given boolean value into its string representation.
+
+//Note: Only valid inputs will be given.
+
+// MY SOLUTION
+function booleanToString(b){
+    //your code here
+    newInput = b.toString() 
+    return newInput
+  }
+  
